@@ -2,6 +2,13 @@
 
 This README provides instructions for setting up and running the backend for the "Skill-Based Role Portal (SBRP)" project.
 
+
+## Website UI
+![Home Page](https://github.com/CCJH23/spm_fullstack/blob/a35d66906adc276c054c7159a569233340a528c4/homepage.png)
+![Open Roles Page](https://github.com/CCJH23/spm_fullstack/blob/a35d66906adc276c054c7159a569233340a528c4/openrolespage.png)
+![Application Page](https://github.com/CCJH23/spm_fullstack/blob/a35d66906adc276c054c7159a569233340a528c4/applicationspage.png)
+
+
 ## C4 Code Diagram
 ![C4 Code Diagram](https://github.com/SPM-Job-Portal-App/spm_fullstack/blob/206dc72971c2f83758ddfd47a534f2e204aaa96a/.github/README/SPM%20Code%20Diagram.png?raw=true)
 
